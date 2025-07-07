@@ -6,6 +6,7 @@
 
 An interactive web dashboard for analyzing Premier League football statistics with visualizations and insights.
 
+##  Final rank 
 ![Rank](images/rank.png)
 
 ##  Features
