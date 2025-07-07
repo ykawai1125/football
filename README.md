@@ -35,5 +35,5 @@ An interactive web dashboard for analyzing Premier League football statistics wi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/premier-league-analytics.git
-cd premier-league-analytics
+git clone https://github.com/yourusername/football.git
+cd football
