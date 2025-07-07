@@ -6,8 +6,7 @@
 
 An interactive web dashboard for analyzing Premier League football statistics with visualizations and insights.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Premier+League+Analytics+Dashboard) 
-*(Replace with actual screenshot)*
+
 
 ##  Features
 
