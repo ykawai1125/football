@@ -14,6 +14,15 @@ An interactive web dashboard for analyzing Premier League football statistics wi
 ##  Team poin
 ![team_status](images/team_status.png)
 
+## Player status
+![Player](images/player.png)
+
+## Team status
+![Team](images/team.png)
+
+## Match information
+![Match](images/match_info.png)
+
 ##  Features
 
 - **Real-time League Standings** with interactive charts
