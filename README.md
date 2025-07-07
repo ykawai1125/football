@@ -9,6 +9,9 @@ An interactive web dashboard for analyzing Premier League football statistics wi
 ##  Final rank 
 ![Rank](images/rank.png)
 
+##  Team poin
+![team_status](images/team_status.png)
+
 ##  Features
 
 - **Real-time League Standings** with interactive charts
